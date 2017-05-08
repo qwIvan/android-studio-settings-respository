@@ -11,6 +11,13 @@
       <file name="/a.dummy" timestamp="1467625778840">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/res/layout/activity_main.xml" timestamp="1494239561375">
+        <mark key="'" line="38" column="39" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="49" />
+        <mark key="^" line="240" column="48" />
+        <mark key="." line="240" column="48" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
       </file>
@@ -163,6 +170,13 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1465961663824">
         <mark key="'" line="41" column="58" />
       </file>
+      <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" timestamp="1494239144027">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="75" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
@@ -223,12 +237,12 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" timestamp="1494238310856">
-        <mark key="'" line="126" column="58" />
-        <mark key="[" line="128" column="32" />
-        <mark key="]" line="128" column="32" />
-        <mark key="." line="128" column="32" />
-        <mark key="^" line="128" column="32" />
+      <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" timestamp="1494240548183">
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="116" column="43" />
+        <mark key="]" line="116" column="67" />
+        <mark key="." line="116" column="50" />
+        <mark key="^" line="128" column="36" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1467273265159">
         <mark key="'" line="27" column="0" />
@@ -322,6 +336,9 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1467254408723">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1494239528689">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
         <mark key="'" line="30" column="33" />
       </file>
@@ -361,15 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
-      <jump line="48" column="25" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
-      <jump line="42" column="21" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
-      <jump line="75" column="25" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
-      <jump line="543" column="8" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="104" column="7" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/AndroidManifest.xml" />
-      <jump line="6" column="54" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/AccountPreferencesFragment.java" />
-      <jump line="56" column="51" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/ui/PreferencesListFragment.java" />
-      <jump line="63" column="21" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
       <jump line="74" column="31" filename="/opt/android-sdk/platforms/android-23/android.jar!/android/content/Intent.class" />
       <jump line="1" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="53" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
@@ -461,19 +469,28 @@
       <jump line="163" column="24" filename="/tmp/cloudplayer/1_0/app/src/main/java/com/xbird/olddriver/olddriver/FragmentSearch.java" />
       <jump line="48" column="59" filename="/tmp/cloudplayer/1_0/app/src/main/java/com/xbird/olddriver/olddriver/NET/zz/FindCILI.java" />
       <jump line="126" column="58" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" />
+      <jump line="38" column="39" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/res/layout/activity_main.xml" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" />
+      <jump line="6" column="0" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/AndroidManifest.xml" />
+      <jump line="166" column="43" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" />
+      <jump line="291" column="12" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" />
+      <jump line="93" column="8" filename="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>ACTION_OPEN_DOCUMENT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWSURFT1w+</text>
       </register>
       <register name="0" type="4">
-        <text>android.intent.action.OPEN_DOCUMENT</text>
+        <text>Intent.ACTION_GET_CONTENT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
