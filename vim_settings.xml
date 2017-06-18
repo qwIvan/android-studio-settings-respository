@@ -159,10 +159,10 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497783036711">
-        <mark key="'" line="310" column="26" />
-        <mark key="[" line="258" column="53" />
-        <mark key="]" line="258" column="75" />
+      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497794934744">
+        <mark key="'" line="257" column="28" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="309" column="74" />
         <mark key="." line="86" column="33" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
@@ -228,6 +228,11 @@
       </file>
       <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/src/main/scala/com/github/shadowsocks/Shadowsocks.scala" timestamp="1466496922898">
         <mark key="'" line="98" column="16" />
+      </file>
+      <file name="$USER_HOME$/github/AwesomeQRCode/library/build.gradle" timestamp="1497794582138">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/ffc61d1f2ba2f6edc4df2224fa65725499039a5d/core-3.2.0-sources.jar!/com/google/zxing/qrcode/encoder/QRCode.java" timestamp="1496481037370">
         <mark key="'" line="72" column="4" />
@@ -349,6 +354,9 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
         <mark key="'" line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/github/AwesomeQRCode/app/build.gradle" timestamp="1497794549896">
+        <mark key="'" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/build.gradle" timestamp="1468295489242">
         <mark key="'" line="0" column="0" />
       </file>
@@ -385,9 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="19" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="34" column="19" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="77" column="44" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="1" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="5" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="13" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
@@ -482,9 +487,12 @@
       <jump line="120" column="46" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="46" column="23" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="86" column="36" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="257" column="30" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="303" column="26" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="310" column="26" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="3" column="23" filename="$USER_HOME$/github/AwesomeQRCode/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/build.gradle" />
+      <jump line="310" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="303" column="38" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="257" column="28" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -494,10 +502,10 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBd2Vzb21lUVJDb2RlXD4=</text>
+        <text encoding="base64">XDxFbmNvZGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>AlignmentPatternCenters</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBIYXNodGFibGU8RW5jb2RlSGludFR5cGUsIE9iamVjdD4gaGludE1hcCA9IG5ldyBIYXNodGFibGU8PigpOwogICAgICAgIGhpbnRNYXAucHV0KEVuY29kZUhpbnRUeXBlLkNIQVJBQ1RFUl9TRVQsICJVVEYtOCIpOwogICAgICAgIGhpbnRNYXAucHV0KEVuY29kZUhpbnRUeXBlLkVSUk9SX0NPUlJFQ1RJT04sIGVycm9yQ29ycmVjdGlvbkxldmVsKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
@@ -531,17 +539,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBd2Vzb21lUVJDb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxFbmNvZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBd2Vzb21lUVJDb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFbmNvZGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compile</entry>
         <entry encoding="base64">XDxnZXRQcm9qZWN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</entry>
         <entry>compi</entry>
@@ -561,6 +568,7 @@
         <entry>unlock</entry>
         <entry encoding="base64">XDxWSURFT1w+</entry>
         <entry encoding="base64">XDxBd2Vzb21lUVJDb2RlXD4=</entry>
+        <entry encoding="base64">XDxFbmNvZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
