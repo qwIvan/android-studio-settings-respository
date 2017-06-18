@@ -159,10 +159,10 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497794934744">
-        <mark key="'" line="257" column="28" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="309" column="74" />
+      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497795765259">
+        <mark key="'" line="303" column="26" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="289" column="12" />
         <mark key="." line="86" column="33" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
@@ -491,8 +491,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/build.gradle" />
       <jump line="310" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="18" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="303" column="38" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="257" column="28" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="303" column="26" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -505,7 +505,7 @@
         <text encoding="base64">XDxFbmNvZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNodGFibGU8RW5jb2RlSGludFR5cGUsIE9iamVjdD4gaGludE1hcCA9IG5ldyBIYXNodGFibGU8PigpOwogICAgICAgIGhpbnRNYXAucHV0KEVuY29kZUhpbnRUeXBlLkNIQVJBQ1RFUl9TRVQsICJVVEYtOCIpOwogICAgICAgIGhpbnRNYXAucHV0KEVuY29kZUhpbnRUeXBlLkVSUk9SX0NPUlJFQ1RJT04sIGVycm9yQ29ycmVjdGlvbkxldmVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgcm93ID0gMDsgcm93IDwgbWF0U2l6ZTsgcm93KyspIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGNvbCA9IDA7IGNvbCA8IG1hdFNpemU7IGNvbCsrKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGlzVHlwZUFHTihjb2wsIHJvdywgYWduQ2VudGVyLCB0cnVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9BR04pOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNUeXBlUE9TKGNvbCwgcm93LCBtYXRTaXplLCB0cnVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9QT1MpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNUeXBlVE1HKGNvbCwgcm93LCBtYXRTaXplKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9UTUcpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKGlzVHlwZVBPUyhjb2wsIHJvdywgbWF0U2l6ZSwgZmFsc2UpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChieXRlTWF0cml4LmdldChjb2wsIHJvdykgPT0gQllURV9FUFQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVNYXRyaXguc2V0KGNvbCwgcm93LCBCWVRFX1BUQyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
