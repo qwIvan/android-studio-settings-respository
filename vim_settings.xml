@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1496481437322">
-        <mark key="'" line="120" column="46" />
+      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497780618731">
+        <mark key="'" line="86" column="36" />
         <mark key="[" line="258" column="53" />
         <mark key="]" line="258" column="75" />
         <mark key="." line="86" column="33" />
@@ -471,7 +471,6 @@
       <jump line="145" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="73" column="5" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="87" column="8" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="86" column="33" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="257" column="12" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="72" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/ffc61d1f2ba2f6edc4df2224fa65725499039a5d/core-3.2.0-sources.jar!/com/google/zxing/qrcode/encoder/QRCode.java" />
       <jump line="264" column="61" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
@@ -485,6 +484,7 @@
       <jump line="355" column="37" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="120" column="46" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="46" column="23" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="86" column="36" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
