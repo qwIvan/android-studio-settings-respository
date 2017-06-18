@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497795765259">
-        <mark key="'" line="303" column="26" />
+      <file name="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" timestamp="1497796577085">
+        <mark key="'" line="146" column="35" />
         <mark key="[" line="261" column="0" />
         <mark key="]" line="289" column="12" />
         <mark key="." line="86" column="33" />
@@ -393,11 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="165" column="53" filename="$USER_HOME$/smart-home-app-2.0.0---jpush/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="52" column="13" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="334" column="102" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
@@ -479,8 +474,6 @@
       <jump line="34" column="29" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="267" column="59" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="39" column="29" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="255" column="38" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
-      <jump line="93" column="19" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="341" column="24" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="111" column="19" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="355" column="37" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
@@ -493,6 +486,13 @@
       <jump line="18" column="0" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="257" column="28" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="303" column="26" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="259" column="12" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="255" column="31" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="93" column="16" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="121" column="8" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="252" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="114" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="146" column="35" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -502,7 +502,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbmNvZGVyXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgcm93ID0gMDsgcm93IDwgbWF0U2l6ZTsgcm93KyspIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGNvbCA9IDA7IGNvbCA8IG1hdFNpemU7IGNvbCsrKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGlzVHlwZUFHTihjb2wsIHJvdywgYWduQ2VudGVyLCB0cnVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9BR04pOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNUeXBlUE9TKGNvbCwgcm93LCBtYXRTaXplLCB0cnVlKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9QT1MpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNUeXBlVE1HKGNvbCwgcm93LCBtYXRTaXplKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoYnl0ZU1hdHJpeC5nZXQoY29sLCByb3cpICE9IEJZVEVfRVBUKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieXRlTWF0cml4LnNldChjb2wsIHJvdywgQllURV9UTUcpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUFRDKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKGlzVHlwZVBPUyhjb2wsIHJvdywgbWF0U2l6ZSwgZmFsc2UpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChieXRlTWF0cml4LmdldChjb2wsIHJvdykgPT0gQllURV9FUFQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVNYXRyaXguc2V0KGNvbCwgcm93LCBCWVRFX1BUQyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -539,17 +539,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbmNvZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbmNvZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQcm9qZWN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</entry>
         <entry>compi</entry>
         <entry>android</entry>
@@ -569,6 +568,7 @@
         <entry encoding="base64">XDxWSURFT1w+</entry>
         <entry encoding="base64">XDxBd2Vzb21lUVJDb2RlXD4=</entry>
         <entry encoding="base64">XDxFbmNvZGVyXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
