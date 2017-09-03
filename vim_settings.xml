@@ -147,6 +147,12 @@
       <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/ContentHelper.java" timestamp="1496480243449">
         <mark key="'" line="136" column="5" />
       </file>
+      <file name="$USER_HOME$/github/synergyandroid/app/build.gradle" timestamp="1504443881026">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
         <mark key="'" line="24" column="18" />
       </file>
@@ -348,7 +354,7 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1467254408723">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494239528689">
+      <file name="/Dummy.txt" timestamp="1504444248291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
@@ -499,7 +505,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</text>
