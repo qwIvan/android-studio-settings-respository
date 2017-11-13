@@ -54,6 +54,10 @@
         <mark key="[" line="99" column="55" />
         <mark key="]" line="99" column="89" />
       </file>
+      <file name="$USER_HOME$/eytvpj/build/intermediates/res/merged/debug/values/values.xml" timestamp="1510593309486">
+        <mark key="[" line="851" column="52" />
+        <mark key="]" line="851" column="65" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/fragments/APRecyclerViewAdapter.java" timestamp="1462524295582">
         <mark key="'" line="73" column="34" />
       </file>
@@ -90,14 +94,6 @@
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467366635444">
         <mark key="'" line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1473751365743">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="68" column="1" />
-        <mark key="m" line="68" column="0" />
-        <mark key="." line="67" column="74" />
-        <mark key="^" line="67" column="74" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebApiConstants.class" timestamp="1463732161108">
         <mark key="'" line="85" column="8" />
@@ -147,6 +143,12 @@
       <file name="$USER_HOME$/github/AwesomeQRCode/app/src/main/java/com/github/sumimakito/awesomeqrsample/ContentHelper.java" timestamp="1496480243449">
         <mark key="'" line="136" column="5" />
       </file>
+      <file name="$USER_HOME$/eytvpj/build/intermediates/res/merged/debug/values-v24/values-v24.xml" timestamp="1510593426851">
+        <mark key="[" line="2" column="89" />
+        <mark key="]" line="2" column="159" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/github/synergyandroid/app/build.gradle" timestamp="1504443881026">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="16" column="3" />
@@ -162,10 +164,12 @@
       <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/build.sbt" timestamp="1466496819898">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/eytvpj/build.gradle" timestamp="1510591681587">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/eytvpj/build.gradle" timestamp="1510593085097">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
@@ -194,13 +198,6 @@
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1473362431630">
-        <mark key="'" line="53" column="44" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="111" column="55" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
@@ -353,6 +350,12 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/ui/AddressAware.java" timestamp="1464599381093">
         <mark key="'" line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/eytvpj/gradle/wrapper/gradle-wrapper.properties" timestamp="1510592649621">
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="68" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
@@ -404,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="53" filename="$USER_HOME$/smart-home-app-2.0.0---jpush/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="52" column="13" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="334" column="102" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="111" column="22" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
@@ -504,19 +506,20 @@
       <jump line="252" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="114" column="15" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
       <jump line="146" column="35" filename="$USER_HOME$/github/AwesomeQRCode/library/src/main/java/com/github/sumimakito/awesomeqr/AwesomeQRCode.java" />
+      <jump line="12" column="12" filename="$USER_HOME$/eytvpj/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4.1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNhbnZhcy5kcmF3Qml0bWFwKGxvZ29PcHQsIChpbnQpICgwLjUgKiAocmVuZGVyZWRCaXRtYXAuZ2V0V2lkdGgoKSAtIGxvZ29PcHQuZ2V0V2lkdGgoKSkpLAogICAgICAgICAgICAgICAgICAgIChpbnQpICgwLjUgKiAocmVuZGVyZWRCaXRtYXAuZ2V0SGVpZ2h0KCkgLSBsb2dvT3B0LmdldEhlaWdodCgpKSksIHBhaW50KTsKICAgICAgICB9CgogICAgICAgIHJldHVybiByZW5kZXJlZEJpdG1hcDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBCeXRlTWF0cml4IGdldEJpdE1hdHJpeChTdHJpbmcgY29udGVudHMpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBRUkNvZGUgcXJDb2RlID0gZ2V0UHJvdG9RUkNvZGUoY29udGVudHMsIEVycm9yQ29ycmVjdGlvbkxldmVsLkgpOwogICAgICAgICAgICBpbnQgYWduQ2VudGVyW10gPSBxckNvZGUuZ2V0VmVyc2lvbigpLmdldEFsaWdubWVudFBhdHRlcm5DZW50ZXJzKCk7CiAgICAgICAgICAgIEJ5dGVNYXRyaXggYnl0ZU1hdHJpeCA9IHFyQ29kZS5nZXRNYXRyaXgoKTsKICAgICAgICAgICAgaW50IG1hdFNpemUgPSBieXRlTWF0cml4LmdldFdpZHRoKCk7CiAgICAgICAgICAgIGZvciAoaW50IHJvdyA9IDA7IHJvdyA8IG1hdFNpemU7IHJvdysrKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBjb2wgPSAwOyBjb2wgPCBtYXRTaXplOyBjb2wrKykgewogICAgICAgICAgICAgICAgICAgIGlmIChpc1R5cGVBR04oY29sLCByb3csIGFnbkNlbnRlciwgdHJ1ZSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ5dGVNYXRyaXguZ2V0KGNvbCwgcm93KSAhPSBCWVRFX0VQVCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfQUdOKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVNYXRyaXguc2V0KGNvbCwgcm93LCBCWVRFX1BUQyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGlzVHlwZVBPUyhjb2wsIHJvdywgbWF0U2l6ZSwgdHJ1ZSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJ5dGVNYXRyaXguZ2V0KGNvbCwgcm93KSAhPSBCWVRFX0VQVCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZU1hdHJpeC5zZXQoY29sLCByb3csIEJZVEVfUE9TKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVNYXRyaXguc2V0KGNvbCwgcm93LCBCWVRFX1BUQyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGlzVHlwZVRNRyhjb2wsIHJvdywgbWF0U2l6ZSkpIHsK</text>
+      <register name="0" type="4">
+        <text>@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
