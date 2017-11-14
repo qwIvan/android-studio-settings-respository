@@ -28,6 +28,11 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/ApkProjects/壹粤TV-3.1.7/AndroidManifest.xml" timestamp="1510662518582">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" timestamp="1464257585686">
         <mark key="'" line="98" column="71" />
       </file>
@@ -199,6 +204,7 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1510660784035" />
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
@@ -513,7 +519,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047CmltcG9ydCBjb20uaGlrdmlzaW9uLndpZmkuY29uZmlndXJhdGlvbi5CYXNlVXRpbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>4.1</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJlZEJpdG1hcFw+</text>
